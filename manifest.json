@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "files": {
-    "main.py": "https://raw.githubusercontent.com/jeancbernier-bit/esp32-ota/main/main.py"
+    "main.py": "http://raw.githubusercontent.com/jeancbernier-bit/esp32-ota/main/main.py"
   }
 }
